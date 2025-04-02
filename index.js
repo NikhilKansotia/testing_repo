@@ -6,3 +6,4 @@ const country = "India";
 const email = "nikhil@gmail.com";
 const phone = "9876543210";
 const gender = "Male";
+const placed = "yes";
