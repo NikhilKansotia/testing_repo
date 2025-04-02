@@ -7,3 +7,7 @@ const email = "nikhil@gmail.com";
 const phone = "9876543210";
 const gender = "Male";
 const placed = "yes";
+
+function add(num1, num2) {
+  return num1 + num2;
+}
